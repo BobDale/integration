@@ -1,0 +1,55 @@
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 9 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 9 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 8 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 8 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 7 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 7 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 6 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 6 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 5 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 5 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 4 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 4 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 3 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 3 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 2 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 2 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Camus stop eating. Stay 1 rolls
+2018-12-25 10:29:41 INFO  Philosopher:36 - Kafka stop eating. Stay 1 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Kafka stop eating. Stay 0 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Camus stop eating. Stay 0 rolls
+2018-12-25 10:29:42 INFO  Philosopher:60 - CAMUS ATE ALL ROLLS
+2018-12-25 10:29:42 INFO  Philosopher:60 - KAFKA ATE ALL ROLLS
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 9 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 9 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 8 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 8 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 7 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 7 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 6 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 6 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 5 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 5 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 4 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 4 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 3 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 3 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Dekartes stop eating. Stay 2 rolls
+2018-12-25 10:29:42 INFO  Philosopher:36 - Sokratus stop eating. Stay 2 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Dekartes stop eating. Stay 1 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Sokratus stop eating. Stay 1 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Dekartes stop eating. Stay 0 rolls
+2018-12-25 10:29:43 INFO  Philosopher:60 - DEKARTES ATE ALL ROLLS
+2018-12-25 10:29:43 INFO  Philosopher:36 - Sokratus stop eating. Stay 0 rolls
+2018-12-25 10:29:43 INFO  Philosopher:60 - SOKRATUS ATE ALL ROLLS
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 9 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 8 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 7 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 6 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 5 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 4 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 3 rolls
+2018-12-25 10:29:43 INFO  Philosopher:36 - Platonus stop eating. Stay 2 rolls
+2018-12-25 10:29:44 INFO  Philosopher:36 - Platonus stop eating. Stay 1 rolls
+2018-12-25 10:29:44 INFO  Philosopher:36 - Platonus stop eating. Stay 0 rolls
+2018-12-25 10:29:44 INFO  Philosopher:60 - PLATONUS ATE ALL ROLLS
