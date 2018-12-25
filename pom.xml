@@ -92,11 +92,11 @@
                         <!--<version>RELEASE</version>-->
                     <!--</dependency>-->
                 <!--</dependencies>-->
-                <!--<configuration>-->
-                    <!--<includes>-->
-                        <!--<include>%regex[.*Test.*]</include>-->
-                    <!--</includes>-->
-                <!--</configuration>-->
+                <configuration>
+                    <includes>-->
+                        <include>%regex[.*Test.*]</include>
+                    </includes>
+                </configuration>
             </plugin>
         </plugins>
     </build>
